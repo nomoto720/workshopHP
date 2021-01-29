@@ -5,7 +5,7 @@
  
 bootstrapのテンプレートをもとにデザインは作成しました。　　
 
-使用したテンプレートhttps://startbootstrap.com/previews/freelancer　
+使用したテンプレートhttps://startbootstrap.com/previews/freelancer
 　　　
    
 申し込みフォームから応募された情報はデータベースに登録されます。
